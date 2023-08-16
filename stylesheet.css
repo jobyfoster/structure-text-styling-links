@@ -1,0 +1,16 @@
+a {
+  font-size: 20pt;
+  color: brown;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  color: red;
+}
+
+p {
+  font-size: 16pt;
+}
